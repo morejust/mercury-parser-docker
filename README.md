@@ -3,7 +3,7 @@ The docker image for [Mercury Parser](https://github.com/postlight/mercury-parse
 
 ## How to use
 
-I've uploaded the built docker to DockerHub (2019-05-24), so you can pull it:
+I've uploaded the built docker to DockerHub (2019-05-24) https://hub.docker.com/r/okhlopkov/mercury-parser-docker, so you can pull it:
 
 ``` bash
 docker pull okhlopkov/mercury-parser-docker:latest
